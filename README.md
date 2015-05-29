@@ -1,4 +1,3 @@
-# rp_week4
 Real Python: Week 4. Drop code here for comment, review, or funsies May 26 - June 2.
 ===
 
